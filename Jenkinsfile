@@ -25,11 +25,6 @@ pipeline{
 
             }
         }
-        stage("deploy on rmeote host"){
-            steps{
-            
-            }
-        }
     }
     
 }
